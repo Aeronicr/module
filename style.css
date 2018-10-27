@@ -1,0 +1,53 @@
+.square1{
+    position: static;
+    width: 80px;
+    height: 80px;
+    background-color: red;
+}
+.square2{
+    position: static;
+    width: 80px;
+    height: 80px;
+    background-color: yellow;
+    margin: -24px;
+}
+.square3{
+    position: static;
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    margin: -45px;
+}
+
+
+.square4 {
+    width: 80px;
+    height: 80px;
+    background-color: green;
+    display: inline-block;
+    float: left;
+    margin-left: 33%;
+    margin-top: 23%;
+}
+.square5{
+    width: 80px;
+    height: 80px;
+    background-color: orange;
+    display: inline-block;
+    float:left;
+    margin-top: 23%;
+}
+.square6{
+    width: 80px;
+    height: 80px;
+    background-color: magenta;
+    display: inline-block;
+    float:left;
+    margin-top: 23%;
+}
+.perrant{
+    background-color: brown;
+    width:800px;
+    height:400px;
+}
+
